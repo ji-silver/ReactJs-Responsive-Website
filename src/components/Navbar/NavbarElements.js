@@ -5,7 +5,7 @@ import { Link as LinkS } from 'react-scroll'
 export const Nav = styled.nav` // <nav>태그에 스타일 적용 후 Nav변수에 저장하고 나중에 불러오기
     background: #000;
     height: 80px;
-    /* margin-top: -80px; */
+    margin-top: -50px;
     display: flex;
     justify-content: center;
     align-items: center;
